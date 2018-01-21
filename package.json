@@ -4,9 +4,9 @@
   "version": "5.0.0-beta.44",
   "repository": "git://github.com/bitpay/insight-api.git",
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/kpooljp/insight-api-koto/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/kpooljp/insight-api-koto",
   "license": "MIT",
   "keywords": [
     "insight",
