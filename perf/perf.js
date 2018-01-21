@@ -8,7 +8,7 @@ var fs = require('fs');
 var async = require('async');
 var RPC = require('bitcoind-rpc');
 var http = require('http');
-var bitcore = require('bitcore-lib');
+var bitcore = require('bitcore-lib-koto');
 var PrivateKey = bitcore.PrivateKey;
 var Transaction = bitcore.Transaction;
 
